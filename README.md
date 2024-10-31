@@ -31,20 +31,16 @@ https://github.com/user-attachments/assets/0764bf22-4c6e-442c-a742-698f0bcca84e
 ## 🎯 Development Process
 
 1. **Design Phase**
-   - Created mood boards for autumn aesthetics
-   - Designed coat variations in 3D modeling software
-   - Developed color schemes for seasonal authenticity
+ - Developed color schemes for seasonal authenticity
 
 2. **Technical Implementation**
+   
+   - Used lensStudio Template to: 
    - Set up body tracking anchors
    - Implemented cloth physics simulation
    - Created custom shaders for fabric rendering
    - Added text customization system
 
-3. **Optimization**
-   - Reduced polygon count for smooth performance
-   - Optimized textures for mobile devices
-   - Implemented efficient memory management
 
 ## 📱 Try It Out
 
